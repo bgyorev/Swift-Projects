@@ -1,2 +1,2 @@
-This is repository for projects that are done while going through the Swift tutorials of Mark Price of Devslopes.
+This is repository for iOS projects written in Swift that are done by me.
 
